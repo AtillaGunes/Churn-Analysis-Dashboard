@@ -4,7 +4,7 @@
 
 The central focus of this analysis is on understanding how **customer tenure**  —the length of time a customer stays with the service—  is influenced by various **service usage patterns**, such as contract type, tech support, and streaming services.
 
-By examining these relationships, the dashboard reveals that customers who engage more deeply with available services—such as using **Tech Support**, **Streaming TV**, and **Streaming Movies**—tend to have significantly longer tenures. Also those with **Month-to-Month contracts** or who do **not use value-added services** are more likely to churn quickly.
+By examining these relationships, the dashboard reveals that customers who engage more deeply with available services, such as using **Tech Support**, **Streaming TV**, and **Streaming Movies**, tend to have significantly longer tenures. Also those with **Month-to-Month contracts** or who do **not use value-added services** are more likely to churn quickly.
 
 The insights aim to inform retention strategies by identifying which services and contract structures correlate with customer loyalty and extended engagement.
 
